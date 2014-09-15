@@ -1,7 +1,3 @@
-#!/bin/bash
+echo "work"
 
-
-print "Hello World"
-print " writing to the file"
-print " add expermental feature "
 
